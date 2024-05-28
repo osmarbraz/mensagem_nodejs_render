@@ -19,5 +19,5 @@
     - mensagemrecurso.js - Contêm os métodos de acesso aos recursos da mensagem.
     - servicos.js - Contêm as rotas aos métodos de acesso a mensagem.
 
-- Render
-   https://mensagem-nodejs-vercel.vercel.app/
+- Render   
+   https://mensagem-nodejs-render.onrender.com
