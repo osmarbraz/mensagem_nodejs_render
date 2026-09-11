@@ -4,7 +4,7 @@
 
 - O projeto foi desenvolvido no VSCode deve ser chamado "mensagem_nodejs_render".
 - Programa cliente está no projeto "mensagem_reactjs_render".
-- Programa servidor cria o webservice na posta 8000.
+- Programa servidor cria o webservice na posta **8000**.
 - Implementação do serviço utilizando REST e os métodos GET e POST.
 - Classe Mensagem possui duas operações: setMensagem e getMensagem.
 
